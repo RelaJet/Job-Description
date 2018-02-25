@@ -68,3 +68,5 @@ RelaJet 是一間來自台灣的新創，創立於 2018 年。主要成員過去
 * Jonior 月薪 6 萬起, 保障 14 個月
 * Senior 月薪 10 萬起, 保障 14 個月
 
+備註：
+將履歷寄至: blue.chen@relajet.com
