@@ -1,4 +1,4 @@
-# RelaJet Job Detail
+# RelaJet Job Description
 
 https://www.relajet.com
 
