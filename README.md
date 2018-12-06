@@ -54,7 +54,7 @@ https://www.facebook.com/relajet/
 
 工作待遇：
 * Junior 月薪 5 萬起，保障 14 個月
-* Senior 月薪 8 萬起，保障 14 個月
+* Senior 月薪 7 萬起，保障 14 個月
 
 備註：
 * 準備履歷時請需自備 github or 一段過去得意的 project 
@@ -163,19 +163,18 @@ https://www.facebook.com/relajet/
 備註：
 將履歷寄至: blue.chen@relajet.com
 
-### 誠徵 研發實習 - Machine Learning Developer
+### 誠徵研發實習 - Deep Learning (Audio) Developer
 工作內容： 
-* 協助 Machine Learning 相關產品開發
+* 參與語音辨識, 語音處理產品開發
 
 您將會學到：
-* 將各大 Machine learning 數學原理學得精通
-* 在 Edge 端跑 AI 的能力
-* 如何分布式架構訓練模型
-* 跟著 RD 參加國外論壇或比賽
+* 將音訊數學原理學得精通
+* 在 MCU 跑 AI model 的能力
+* 使用分布式架構訓練模型
 
 其他條件：
 * 具備流利的英語會話
-* 有碰過 Tensorflow, Keras, Caffe 等等 framework.
+* 有碰過 Tensorflow, Caffe 等等 framework.
 
 工作待遇：
 * 每週需工作 20 小時以上
