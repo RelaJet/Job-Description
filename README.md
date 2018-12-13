@@ -111,8 +111,6 @@ https://www.facebook.com/relajet/
 其他條件：
 * 具備自我學習新科技能力、熱愛挑戰性工作 
 
-工作待遇：
-* Senior 月薪 8 萬起, 保障 14 個月
 
 ### 誠徵 BLE 通訊整合工程師
 
@@ -133,9 +131,6 @@ https://www.facebook.com/relajet/
 
 其他條件：
 * 具備自我學習新科技能力、熱愛挑戰性工作 
-
-工作待遇：
-* Senior 月薪 8 萬起, 保障 14 個月
 
 備註：
 將履歷寄至： blue.chen@relajet.com
