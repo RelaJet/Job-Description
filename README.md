@@ -8,11 +8,14 @@ RelaJet 洞見未來，『洞見』聽力市場的趨勢，讓傳統助聽器不
 
 RelaJet 是一間來自台灣的新創，創立於 2018 年。主要成員過去背景來自知名的半導體、AI 算法公司、銀行、著名的投融資法律事務所以及互聯網公司。團隊技術核心能力圍繞著：聽覺軟硬整合產品＋分布式架構＋AI算法，同時我們也有很強力的事業開發團隊協助我們深入東南亞及美國市場。
 
+最近期的 DSP 產品報導：
+https://www.bnext.com.tw/article/53858/meet-startup-interview-relajet-tech
+
+TechNews 報導：
+https://technews.tw/2019/01/02/ces-2019-tta-startups-relajet-ai-hearing-repair/
+
 創辦人 11 月在 Appworks 的演講：
 https://www.youtube.com/watch?v=OsI2pYpc6Y0
-
-近期在 MIT 報導：
-http://www.mittrchina.com/news/2473
 
 FB動態：
 https://www.facebook.com/relajet/
@@ -92,8 +95,7 @@ https://www.facebook.com/relajet/
 
 工作內容： 
 * 熟悉 FFT, Mel-Spec 基礎音訊算法
-* 熟悉 MEMS mic or Codec 過來的 PDM -> PCM 底層音訊轉換整合
-* 熟悉 Cortex M4/M3 上的 RTOS 系統整合
+* 熟悉 Cortex M4/M3 or RiscV 整合
 * 與機器學習演算法人員整合算法
 * 具備流利的英語會話 （我們經常接觸國外團隊）
 
@@ -105,58 +107,14 @@ https://www.facebook.com/relajet/
 加分：
 * 曾開發傳統音訊演算法 (單麥克風與麥克風陣列) 
 * 曾開發透過 BT/BLE Audio 串流
-* 曾開發 WM codec or 新唐 codec 者優先錄取
-* 曾開發 CSR, MTK, Cypress, Broadcom 或其他藍牙平台者優先錄取
 
 其他條件：
 * 具備自我學習新科技能力、熱愛挑戰性工作 
-
-
-### 誠徵 BLE 通訊整合工程師
-
-工作內容： 
-* 開發 TWS 真無線藍牙協議
-* 開發 Audio Streaming 應用
-* 具備流利的英語會話 （我們經常接觸國外團隊）
-
-工作技能： 
-* 熟悉 C 並且對 BT/BLE protocol 熟悉
-* 熟悉 Cortex M4/M3 上的 RTOS 系統整合
-* 具備基礎音訊原理 
-* 有良好溝通、協調能力和學習能力，具備團隊合作精神
-
-加分：
-* 曾開發音訊演算法 (單麥克風與麥克風陣列) 
-* 曾開發 MTK, Cypress, Broadcom 或其他藍牙平台者優先錄取
-
-其他條件：
-* 具備自我學習新科技能力、熱愛挑戰性工作 
-
-備註：
-將履歷寄至： blue.chen@relajet.com
-
-## 實習
-
-### 誠徵 研發實習 - Blockchain Developer
-工作內容： 
-* 協助 Blockchain 產品線之開發
-
-您將會學到：
-* 分布式運算架構之基礎
-* 密碼學之基礎
-* 用 Blockchain 解決醫療領域的特定問題 
-* 關於 Blockchain 相關之金融法規
-
-其他條件：
-* 熟悉 Node.js
-* 具備流利的英語會話
-
-工作待遇：
-* 每週需工作 20 小時以上
-* 短時時薪 200 以上，若全職實習 3.2 萬起
 
 備註：
 將履歷寄至: blue.chen@relajet.com
+
+## 實習
 
 ### 誠徵研發實習 - Deep Learning (Audio) Developer
 工作內容： 
