@@ -2,9 +2,9 @@
 官網：
 https://www.relajet.com
 
-RelaJet 洞見未來，『洞見』聽力市場的趨勢，讓傳統助聽器不再與新科技遙不可及。我們提供軟硬整合方案與個人醫療數據交換鏈，改善傳統醫療行業瓶頸，協助全球商業客戶開發更好的產品，讓使用者迎向美好的『未來』。
+RelaJet 洞見未來，『洞見』聽力市場的趨勢，讓傳統助聽器不再與新科技遙不可及。我們身為使用者研發可適應性降噪助聽器，也做到跟傳統助聽器一樣的續航力，改善傳統醫療行業瓶頸，協助全球商業客戶開發更好的產品，讓使用者迎向美好的『未來』。
 
-目前 RelaJet 聲音入口演算法得到眾多聲音廠商肯定，客戶不只在台灣，已打入歐美以及印度市場，各位可以期待 2019 CES 有許多知名品牌掛上 RelaJet inside!
+目前 RelaJet 聲音入口演算法得到眾多聲音廠商肯定，客戶不只在台灣，已打入歐美以及印度市場!
 
 RelaJet 是一間來自台灣的新創，創立於 2018 年。主要成員過去背景來自知名的半導體、AI 算法公司、銀行、著名的投融資法律事務所以及互聯網公司。團隊技術核心能力圍繞著：聽覺軟硬整合產品＋分布式架構＋AI算法，同時我們也有很強力的事業開發團隊協助我們深入東南亞及美國市場。
 
@@ -14,11 +14,11 @@ https://www.bnext.com.tw/article/53858/meet-startup-interview-relajet-tech
 TechNews 報導：
 https://technews.tw/2019/01/02/ces-2019-tta-startups-relajet-ai-hearing-repair/
 
-創辦人 11 月在 Appworks 的演講：
-https://www.youtube.com/watch?v=OsI2pYpc6Y0
-
 FB動態：
 https://www.facebook.com/relajet/
+
+我們是 2019 高通創新競賽冠軍
+https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%AB%98%E9%80%9A/19121720112B.shtml
 
 ## 基本福利
 * 第一年 14 天休假
@@ -136,6 +136,21 @@ https://www.facebook.com/relajet/
 備註：
 將履歷寄至: blue.chen@relajet.com
 
+### 誠徵介面設計實習 - UI Designer
+工作內容： 
+* 與醫院合作參與開發使用者介面
+
+您將會學到：
+* 了解助聽器產業鏈
+* 與使用者實際接觸介面設計及研發
+
+工作待遇：
+* 每週需工作 20 小時以上
+* 短時時薪 200 以上，若全職實習 2.8 萬起
+
+備註：
+將履歷寄至: blue.chen@relajet.com
+
 ### 誠徵 事業開發實習
 
 工作內容： 
@@ -158,7 +173,7 @@ https://www.facebook.com/relajet/
 
 工作待遇：
 * 每週需工作 20 小時以上
-* 短時時薪 200 以上，若全職實習 2.5 萬起
+* 短時時薪 200 以上，若全職實習 3.2 萬起
 
 備註：
 將履歷寄至: blue.chen@relajet.com
