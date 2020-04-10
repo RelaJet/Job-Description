@@ -25,21 +25,45 @@ https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%A
 * 員工分紅 / 員工認股
 * 雙週五 Happy hour
 * 聽不完的技術分享
-* 提供員工電腦 Mac or Lenovo T470 經典小紅點系列
+* 提供員工電腦 Mac or Lenovo 經典小紅點系列
 
 ## 工作地點
 * 台北市南京東路四段 150 號 - 台北小巨蛋附近，小巨蛋捷運出口 5 分鐘抵達
 
-## 工程團隊
+# 管理團隊工作列表
+為了增進產品體驗，我們非常歡迎本身有痛點的成員加入，因此我們優先邀請您本身或者是家中有成員有聽力問題的朋友加入我們的測試。
+
+### 誠徵雲端業務產品經理
+
+工作內容： 
+* 執行及推廣人聲分離引擎雲端產品
+* 協助公部門及大型企業需求驗證
+* 具備流利的英語會話 （我們經常接觸國外團隊）
+
+工作技能： 
+* 具備良好的程式設計習慣及優良的文檔編寫能力
+* 有良好溝通、協調能力和學習能力，具備團隊合作精神
+
+其他條件：
+* 待過 Microsoft, Google, AWS，且負責過公部門或電信企業者優先
+
+加分：
+* 對語音市場熟悉
+
+備註：
+* 將履歷寄至： blue.chen@relajet.com
+
+# 工程團隊工作列表
 為了增進產品體驗，我們非常歡迎本身有痛點的成員加入，因此我們優先邀請您本身或者是家中有成員有聽力問題的朋友加入我們的測試。
 
 ### 誠徵 Javascript 軟體工程師
 
 工作內容： 
+
 * 前端主要框架使用 React + Redux, 後端語言以 Node.js 為主
+* 開發人聲分離引擎雲端產品
 * 協助 Electron App 產品開發
 * 協助 React Native App 產品開發
-* 會碰觸到很多新技術，例如 Webassembly
 * 具備流利的英語會話 （我們經常接觸國外團隊）
 
 工作技能： 
@@ -55,10 +79,6 @@ https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%A
 * 對 C or Webassembly 熟悉 
 * 研究過市面上所有 JS base 的 Deep learning 框架
 
-工作待遇：
-* Junior 月薪 5 萬起，保障 14 個月
-* Senior 月薪 7 萬起，保障 14 個月
-
 備註：
 * 準備履歷時請需自備 github or 一段過去得意的 project 
 * 將履歷寄至： blue.chen@relajet.com
@@ -67,14 +87,14 @@ https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%A
 
 工作內容： 
 * 獨立研究與開發機器學習演算法，包含深度學習模型研究、軟體開發、模擬與分析 
-* 基於 Caffe 開發深度學習模型
+* 基於 pyTorch 開發深度學習模型
 * 應用機器學習演算法於語音訊號 / 自然語言的分析. 
 * 機器學習演算法的 IC Porting. （會有人帶）
 * 具備流利的英語會話 （我們經常接觸國外團隊）
 
 工作技能： 
 * Familiar with speech signal processing, speech recognition. 
-* Familiar with CNN, LSTM, GAN.
+* Familiar with CNN, LSTM, GAN, RNN
 * 有良好溝通、協調能力和學習能力，具備團隊合作精神
 
 加分：
@@ -83,10 +103,6 @@ https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%A
 其他條件：
 * 具備自我學習新科技能力、熱愛挑戰性工作 
 * 具備語音、影像處理、電腦視覺背景者佳 
-
-工作待遇：
-* Junior 月薪 6 萬起, 保障 14 個月
-* Senior 月薪 10 萬起, 保障 14 個月
 
 備註：
 將履歷寄至: blue.chen@relajet.com
