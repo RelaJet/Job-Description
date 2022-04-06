@@ -21,8 +21,7 @@ https://www.facebook.com/relajet/
 https://www.ctimes.com.tw/DispNews/tw/%E7%A7%91%E6%8A%80%E9%83%A8/Qualcomm/%E9%AB%98%E9%80%9A/19121720112B.shtml
 
 ## 基本福利
-* 第一年 14 天休假
-* 員工分紅 / 員工認股
+* 員工分紅 / 員工認股 
 * 雙週五 Happy hour
 * 聽不完的技術分享
 * 提供員工電腦 Mac or Lenovo 經典小紅點系列
